@@ -1,3 +1,6 @@
+#  Names:IRAKIRANUKA Pacifique
+#  Department:Computer Science
+#  Reg num:221023167
 import random
 
 friend = input("Enter the number of friends joining (including you):\n")
